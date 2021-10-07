@@ -3,8 +3,9 @@ Software and Tools
 ### Websites/Installation links of Software and Tools
 
 - **Installing Chocolatey** - [Chocolatey Website](https://chocolatey.org/install#individual)
+- **Installing Chocolatey GUI** - [Chocolatey GUI](https://community.chocolatey.org/packages/ChocolateyGUI)
 
-|  |  |  |  |
+| Software/Tool | Download link | Chocolatey | Docker |
 |--|--|--|--| 
 | ***Google Chrome*** | [Download and Install](https://www.google.com/intl/en_in/chrome/) | [Install via Chocolatey](https://community.chocolatey.org/packages/GoogleChrome) |  |
 | ***Git*** | [Download and Install](https://git-scm.com/download/win) | [Install via Chocolatey](https://community.chocolatey.org/packages/git) |  |
