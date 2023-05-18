@@ -24,3 +24,4 @@ Software and Tools
 | ***Ueli*** | [Download and Install](https://ueli.app/#/) | [Install via Chocolatey](https://community.chocolatey.org/packages/ueli) |  |
 | ***PostgreSQL*** | [Download and Install](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads) | [Install via Chocolatey](https://community.chocolatey.org/packages/postgresql). Refer Chocolatey page for command to install and configure port and password. My command: `choco install postgresql13 --params '/Password:PostgreSQL' --ia '--serverport 5432'` |  |
 | ***Zoom*** | [Download and Install](https://zoom.us/download) | [Install via Chocolatey](https://community.chocolatey.org/packages/zoom) |  |
+| ***Adobe Acrobat*** | [Download and Install](https://get.adobe.com/uk/reader/otherversions) | [Install via Chocolatey](https://community.chocolatey.org/packages/adobereader) |  |
